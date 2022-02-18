@@ -1,0 +1,17 @@
+gyroZ_log_filterBW_5HZ
+w 68+ 1A+ r 68+ 06+ p
+w 68+ 1B+ r 68+ 02+ p 
+
+gyroZ_log_filterBW_41HZ
+w 68+ 1A+ r 68+ 03+ p 
+w 68+ 1B+ r 68+ 02+ p 
+
+gyroZ_log_filterBW_8800HZ
+w 68+ 1A+ r 68+ 03+ p 
+w 68+ 1B+ r 68+ 00+ p 
+
+accZ_log_filterBW_1000HZ
+w 68+ 1D+ r 68+ 03+ p 
+
+accZ_log_filterBW_5HZ
+w 68+ 1D+ r 68+ 0E+ p

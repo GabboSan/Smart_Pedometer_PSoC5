@@ -1,0 +1,6 @@
+C:\Users\nbabr\Desktop\github\AY2022_I_Project-1\MPU9250\MPU920_I2C.cydsn\MPU920_I2C.cyprj|4e336bb7-45ff-44f0-8a94-9c880f51bbb4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|db066584-c49c-4e7a-9ec5-26a33a241abe
+C:\Users\nbabr\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|4a3ccf8a-fd25-4d27-ad76-d20a5fa74c25
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|68e991ce-c07a-49d1-8f00-4ff52962a75c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bc566c95-5045-4068-8d5c-41be93954e36
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|dfe7dd71-30bc-458f-894b-ad26237f557c
