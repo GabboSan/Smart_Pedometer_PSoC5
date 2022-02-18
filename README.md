@@ -1,9 +1,9 @@
 # AY2022 I Project-1
 
-Smart Pedometer project by Group 1:
-
-1. d'Arenzo Daniele
-2. Santicchi Gabriele
+Smart Pedometer project developed in a MSc Course of Politecnico di Milano:
+Authors: 
+1. Santicchi Gabriele
+2. d'Arenzo Daniele 
 3. Santini Matteo
 
 In this work a PSoC CY8C5888LTI-LP097 communicates by I2C protocol with MPU9250, SSD1306, 24LC512 and by UART protocol with HC-06 Bluetooth.\
