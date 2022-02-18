@@ -47,7 +47,7 @@ The SSD1306 communicates by I2C with the Master. It displays the total step coun
 
 
 ## Final PCB ad Case
-
+![alt text](https://github.com/GabboSan/Smart_Pedometer_PSoC5/blob/main/schematic_image.png)
 # Guide
 
 ## Device Guide
