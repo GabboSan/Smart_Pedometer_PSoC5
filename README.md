@@ -45,6 +45,9 @@ From 24LC512 Datasheet, Read and Write max. operation number is limited to a Pag
 
 The SSD1306 communicates by I2C with the Master. It displays the total step counter and the current speed (in cm/s) each 2 seconds. When the device enters in Sleep mode, the display is turned off.
 
+
+## Final PCB ad Case
+
 # Guide
 
 ## Device Guide
